@@ -1,9 +1,10 @@
 import tweepy
 import pandas
 
+# KL replace the bearer_token with your own, can get from the Twitter developer portal
 client = tweepy.Client(bearer_token='INSERT-BEARER-TOKEN')
 
-# this function will search for tweets including the skull emoji
+# KL this function will search for tweets including the skull emoji
 def skull_tweets():
   query = '\U0001F480'
 
@@ -17,7 +18,7 @@ def skull_tweets():
 
   print('done with skull_tweets')
 
-# this function will search for tweets including the crying emoji
+# KL this function will search for tweets including the crying emoji
 def crying_tweets():
   query = '\U0001F62D'
 
@@ -31,5 +32,6 @@ def crying_tweets():
 
   print('done with crying_tweets')
 
+# KL runs both functions to get the csv files
 skull_tweets()
 crying_tweets()
