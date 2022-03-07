@@ -10,6 +10,7 @@ This folder currently contains 2 file and 3 folders:
 
  1. this **README** file
  2. **Final_Project_Description.pdf**, a document outlining our project.
- 3. **References**, a folder containing a README file describing each of our sources.
- 4. **Data**, a folder containing a .py file used to scrape Twitter, .csv files containing our dataset, and a README file describing the contents of the folder and outlines the proposed data collection and curation process.
- 5. **data-analysis**, a folder containing our finalized .py file used to scrape Twitter and .csv files containing our finalized dataset.
+ 3. 2. **Final_Project_Writeup.pdf**, a document outlining our project background, data, and results.
+ 4. **References**, a folder containing a README file describing each of our sources.
+ 5. **Data**, a folder containing a .py file used to scrape Twitter, .csv files containing our dataset, and a README file describing the contents of the folder and outlines the proposed data collection and curation process.
+ 6. **data-analysis**, a folder containing our finalized .py file used to scrape Twitter and .csv files containing our finalized dataset.
